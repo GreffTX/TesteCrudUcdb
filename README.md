@@ -1,7 +1,6 @@
 <Instructions for code>
 
 -Este é meu teste de desenvolvimento Back-End C#, criando um CRUD de pedidos e com descontos.
--Tive alguns contratempos ao criar o projeto, tendo feito o mesmo duas vezes por erro de versionamento, não consegui entregar com o Front-End em AngularJS mas estou disposto a faze-lo se tiver a chance, desde já agradeço a oportunidade.
 
 PROJETO CRIADO COM: Aplicativo Web ASP.NET Core(MVC) com .NET 6.0; 
 
